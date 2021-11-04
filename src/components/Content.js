@@ -5,7 +5,7 @@ import Socials from './Socials'
 const Content = () => {
     return (
         <div>
-            
+            content
         </div>
     );
 };
